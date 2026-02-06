@@ -7,6 +7,7 @@
 - [Deployment Options](#%EF%B8%8F-deployment-options)
 - [Local Deployment](#-local-deployment)
 - [Cloud Deployment](#%EF%B8%8F-cloud-deployment)
+- [Openshift Deployment](/deploy/README.md)
 - [Production Deployment](#-production-deployment)
 - [Configuration](#%EF%B8%8F-configuration)
 - [Monitoring](#-monitoring)
